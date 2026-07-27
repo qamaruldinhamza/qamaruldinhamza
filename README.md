@@ -1,4 +1,4 @@
-<div align="center">
+<p align="center">
 
 # Hi there, I'm Qamar Ul Din Hamza 👋
 ### Senior Full-Stack & AI Engineer | Next.js, Node.js, Headless CMS & Agentic Systems
@@ -10,7 +10,7 @@
 
 ---
 
-</div>
+</p>
 
 ## 🚀 About Me
 
