@@ -110,12 +110,16 @@ Because most of my client work lives in private repositories, this profile acts 
 
 ---
 
-## 📊 GitHub Overview
+---
+
+## 📈 Engineering Track Record & Verified Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=qamaruldinhamza&show_icons=true&theme=dark&rank_icon=github&count_private=true" alt="Qamar's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qamaruldinhamza&layout=compact&theme=dark&hide=html,css" alt="Top Languages" width="48%" />
+[![Projects Completed](https://img.shields.io/badge/Completed%20Projects-140%2B%20Delivered-0077B5?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/fl/qamaruldinhamza)
+[![Billed Hours](https://img.shields.io/badge/Billed%20Hours-5%2C400%2B%20Hours-14A800?style=for-the-badge&logo=googlechrome&logoColor=white)](https://upwork.com/fl/qamaruldinhamza)
+[![Job Success](https://img.shields.io/badge/Job%20Success-100%25%20Sustained-success?style=for-the-badge&logo=checkmarx&logoColor=white)](https://upwork.com/fl/qamaruldinhamza)
+[![Academic CS](https://img.shields.io/badge/CS%20Degree-MPhil%20Computer%20Science-7B1FA2?style=for-the-badge&logo=academic&logoColor=white)](https://qamaruldin.com)
 
 </div>
 
