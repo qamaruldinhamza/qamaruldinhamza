@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/qamaruldinhamza)
 [![Portfolio](https://img.shields.io/badge/Portfolio-qamaruldin.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://qamaruldin.com)
-[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/fl/qamaruldinhamza)
+[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/fl/qamaruldinhamzas)
 [![Email](https://img.shields.io/badge/Email-hire%40qamaruldin.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hire@qamaruldin.com)
 
 ---
@@ -116,9 +116,9 @@ Because most of my client work lives in private repositories, this profile acts 
 
 <div align="center">
 
-[![Projects Completed](https://img.shields.io/badge/Completed%20Projects-140%2B%20Delivered-0077B5?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/fl/qamaruldinhamza)
-[![Billed Hours](https://img.shields.io/badge/Billed%20Hours-5%2C400%2B%20Hours-14A800?style=for-the-badge&logo=googlechrome&logoColor=white)](https://upwork.com/fl/qamaruldinhamza)
-[![Job Success](https://img.shields.io/badge/Job%20Success-100%25%20Sustained-success?style=for-the-badge&logo=checkmarx&logoColor=white)](https://upwork.com/fl/qamaruldinhamza)
+[![Projects Completed](https://img.shields.io/badge/Completed%20Projects-140%2B%20Delivered-0077B5?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/fl/qamaruldinhamzas)
+[![Billed Hours](https://img.shields.io/badge/Billed%20Hours-5%2C400%2B%20Hours-14A800?style=for-the-badge&logo=googlechrome&logoColor=white)](https://upwork.com/fl/qamaruldinhamzas)
+[![Job Success](https://img.shields.io/badge/Job%20Success-100%25%20Sustained-success?style=for-the-badge&logo=checkmarx&logoColor=white)](https://upwork.com/fl/qamaruldinhamzas)
 [![Academic CS](https://img.shields.io/badge/CS%20Degree-MPhil%20Computer%20Science-7B1FA2?style=for-the-badge&logo=academic&logoColor=white)](https://qamaruldin.com)
 
 </div>
@@ -129,6 +129,6 @@ Because most of my client work lives in private repositories, this profile acts 
 
 ### 💬 Building a complex SaaS, Headless CMS, or AI Agent platform?
 
-[**Visit Portfolio**](https://qamaruldin.com) • [**Book on Upwork**](https://upwork.com/fl/qamaruldinhamza) • [**Connect on LinkedIn**](https://linkedin.com/in/qamaruldinhamza)
+[**Visit Portfolio**](https://qamaruldin.com) • [**Book on Upwork**](https://upwork.com/fl/qamaruldinhamzas) • [**Connect on LinkedIn**](https://linkedin.com/in/qamaruldinhamza)
 
 </div>
