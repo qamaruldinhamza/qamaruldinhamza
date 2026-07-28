@@ -8,7 +8,7 @@
 [![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/fl/qamaruldinhamzas)
 [![Email](https://img.shields.io/badge/Email-hire%40qamaruldin.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hire@qamaruldin.com)
 
-<p align="center">
+<p align="center" style="display: flex;">
   <a href="https://linkedin.com/in/qamaruldinhamza" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://qamaruldin.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-qamaruldin.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://upwork.com/fl/qamaruldinhamzas" target="_blank"><img src="https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
